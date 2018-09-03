@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+  ViewToolSeven42::Renderer.copyright 'Sarah Evans', 'All rights reserved'
+```
 
 ## Development
 
